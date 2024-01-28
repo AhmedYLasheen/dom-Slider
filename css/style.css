@@ -47,7 +47,7 @@ body
 
 #lightBoxItem i {
     
-    font-size: 21px;
+    font-size: 20px;
     cursor: pointer;
     margin: 10px;
 
@@ -59,7 +59,7 @@ body
 /* 
 #lightBoxContainer
 {
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.7);
     position: fixed;
     top: 0;
     bottom: 0;
